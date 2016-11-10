@@ -1,0 +1,6 @@
+LoadFromStream
+This
+Text
+Load
+From
+Stream
