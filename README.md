@@ -1,4 +1,4 @@
-# ruby-library ruby  garage 
+# log file
 Component tLogFile designed for easy addition of application functionality logging. Logging done in text files. Component tLogFile designed for easy addition of application functionality logging. Logging done in text files. Recording held in accordance with configurable options. Recording held in accordance with configurable options. 
 
 1. Installation
